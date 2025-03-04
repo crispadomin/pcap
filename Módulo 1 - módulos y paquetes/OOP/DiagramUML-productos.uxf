@@ -1,0 +1,22 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>0</x><y>10</y><w>100</w><h>70</h></coordinates><panel_attributes>Abstracción
+Encapsulación
+Herencia
+Polimorfismo</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>230</x><y>10</y><w>220</w><h>140</h></coordinates><panel_attributes>*&lt;&lt;SuperClase&gt;&gt;*
+Producto
+--
+nombre
+descripcion
+id
+precio
+estado</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>350</x><y>210</y><w>220</w><h>80</h></coordinates><panel_attributes>Consumible
+--
+fecha_caducidad
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>260</x><y>340</y><w>220</w><h>60</h></coordinates><panel_attributes>Comida
+--
+peso</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>490</x><y>340</y><w>220</w><h>60</h></coordinates><panel_attributes>Bebida
+--
+volumen</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>330</x><y>140</y><w>150</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;130;70</additional_attributes></element><element><id>Relation</id><coordinates><x>370</x><y>280</y><w>110</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>90;10;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>280</y><w>160</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;140;60</additional_attributes></element><element><id>UMLClass</id><coordinates><x>90</x><y>210</y><w>220</w><h>80</h></coordinates><panel_attributes>NoConsumible
+--
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>140</y><w>140</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>120;10;10;70</additional_attributes></element><element><id>UMLClass</id><coordinates><x>30</x><y>340</y><w>220</w><h>60</h></coordinates><panel_attributes>Electronicos
+--</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>130</x><y>280</y><w>30</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;60</additional_attributes></element></diagram>
