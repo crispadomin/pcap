@@ -1,6 +1,6 @@
 # 🖥️ PCAP - Certified Associate in Python Programming
 
-![Python PCAP Certification](pcap-31-03-BADGE.png)
+![Python PCAP Certification](pcap-31-03-badge.png)
 🔗 [Ver mi insignia en Credly](https://www.credly.com/badges/7384e3c4-bcb2-4d0d-966a-74cd339efdf6/public_url)
 
 ## 📌 Descripción
