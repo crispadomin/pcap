@@ -8,31 +8,40 @@ Este repositorio contiene materiales y ejercicios utilizados en mi preparación 
 
 ## 📂 Contenido
 
-🔹 **Módulos y paquetes**  
-🔹 **Estructuras de datos** (listas, tuplas, diccionarios, conjuntos) 
-🔹 **Listas** (método y comprensión de listas) 
-🔹 **Estructuras de control** (bucles, condicionales)  
-🔹 **Funciones lambda**  
-🔹 **Programación orientada a objetos (OOP)**  
-🔹 **Manejo de excepciones**  
-🔹 **Generadores y cierres**  
-🔹 **Trabajando con archivos**  
+🔹 **Módulo 1: módulos y paquetes**  
+🔹 **Módulo 2: cadenas, métodos de listas y excepciones**  
+🔹 **Módulo 3: programación orientada a objetos**  
+🔹 **Módulo 4: misceláneo** (manejo de archivos, función lambda, generadores y cierres...) 
 
+## 🚀 Requisitos
+
+Para ejecutar los ejercicios, necesitas tener instalado:
+- **Python 3.12** → [Descargar Python](https://www.python.org/downloads/)
+- Un editor de código como **VS Code**, **PyCharm** o simplemente usar la terminal.
+  
 ## 🛠️ Tecnologías utilizadas
 - **Python** 🐍
 - **Visual Studio Code** 💻
 - **Google Colab** ☁️
 
-## 🚀 Uso
-Puedes clonar este repositorio con el siguiente comando:
-```bash
-git clone git@github.com:crispadomin/pcap.git
-```
+## ▶️ Cómo usar este repositorio
 
-Para ejecutar los scripts, simplemente usa:
-```bash
-python nombre_del_script.py
-```
+1. Clona el repositorio en tu máquina local:
+   ```sh
+   git clone git@github.com:crispadomin/pcep.git
+   ```
+2. Navega dentro del repositorio:
+   ```sh
+   cd pcep
+   ```
+3. Ejecuta los scripts de Python:
+   ```sh
+   python archivo.py
+   ```
+   
+## 📝 Contribuciones
+
+Si deseas contribuir con ejercicios adicionales o mejoras, puedes hacer un **fork** del repositorio y enviar un **pull request**.
 
 ## 📜 Recursos adicionales
 - [Documentación oficial de Python](https://docs.python.org/3/)
